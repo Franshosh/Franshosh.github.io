@@ -5,3 +5,7 @@ WELCOME TO YOUR DOOM
 [NES Emulator](https://tyfkda.github.io/nesemu/)
 
 [GBA Emulator](https://taisel.github.io/IodineGBA/)
+
+[N64 ROMS](https://drive.google.com/drive/folders/1-0Ihm8REcw6cBNTTVEZ1zHAF2iIoHNDr)
+
+[NES ROMS](https://drive.google.com/drive/folders/1Y9kuxyaxusR_LeixcKSvRQExRGQN1uBJ)
